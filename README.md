@@ -2,15 +2,15 @@
 
 This repo is a collection of cybersecurity resources for conducting cyber research, analysis, forensics, and resources.
 
-### OSINT - Open Source Intelligence
+**OSINT - Open Source Intelligence**
 
-### Microsoft Windows
+**Microsoft Windows**
 
-### Apple macOS & iOS
+**Apple macOS & iOS**
 
-### Google Android
+**Google Android**
 
-### Network Analysis
+**Network Analysis**
 
 ### Resources
 
