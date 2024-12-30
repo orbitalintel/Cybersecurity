@@ -1,6 +1,8 @@
 # Cybersecurity
 
-This repo is a growning collection of cybersecurity resources for conducting cyber research, analysis, forensics, and resources.
+This repo is a growning collection of cybersecurity resources for conducting cyber research, analysis, forensics, and operating securely.
+
+### Cyber Research, Analysis, Forensics
 
 **OSINT - Open Source Intelligence**
 
@@ -12,7 +14,7 @@ This repo is a growning collection of cybersecurity resources for conducting cyb
 
 **Network Analysis**
 
-### Resources
+### Operating Securely
 
 [**Password Managers**](./Resources/PasswordManagers.md)
 
