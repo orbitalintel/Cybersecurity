@@ -4,7 +4,7 @@
 
 1Password
 
-BitWarden
+Bitwarden
 
 **Best Free Options**
 
@@ -20,6 +20,10 @@ KeyPass
 
 LastPass
 
+Keeper
+
+Dashlane
+
 ProtonXXXX
 
-NordXXXX
+NordPass
