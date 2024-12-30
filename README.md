@@ -1,8 +1,8 @@
 # Cybersecurity
 
-This repo is a collection of cybersecurity resources for conducting cyber research, analysis, and forensics.
+This repo is a collection of cybersecurity resources for conducting cyber research, analysis, forensics, and resources.
 
-**OSINT - Open Source Intelligence**
+## OSINT - Open Source Intelligence
 
 **Microsoft Windows**
 
@@ -11,4 +11,6 @@ This repo is a collection of cybersecurity resources for conducting cyber resear
 **Google Android**
 
 **Network Analysis**
+
+**Resources**
 
