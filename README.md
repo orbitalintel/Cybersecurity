@@ -1,6 +1,6 @@
 # Cybersecurity
 
-This repo is a collection of cybersecurity resources for conducting cyber research, analysis, forensics, and resources.
+This repo is a growning collection of cybersecurity resources for conducting cyber research, analysis, forensics, and resources.
 
 **OSINT - Open Source Intelligence**
 
