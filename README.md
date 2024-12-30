@@ -14,7 +14,7 @@ This repo is a collection of cybersecurity resources for conducting cyber resear
 
 ### Resources
 
-**Password Managers**
+[**Password Managers**](./Resources/PasswordManagers.md)
 
 **Virtual Private Networks (VPN)**
 
