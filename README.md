@@ -1,6 +1,6 @@
 # Cybersecurity
 
-This repo is an in-progress collection of cybersecurity resources for conducting cyber research, analysis, forensics, and operating securely.
+This repo is an in-progress collection of cybersecurity resources for conducting cyber research, analysis, forensics, and proactive cyber defense.
 
 ---
 ### Cyber Research, Analysis, Forensics
@@ -18,7 +18,7 @@ This repo is an in-progress collection of cybersecurity resources for conducting
 
 
 ---
-### Operating Securely
+### Proactive Cyber Defense
 ---
 
 [**Password Managers**](./Resources/PasswordManagers.md)
