@@ -3,6 +3,7 @@
 **Recommended**
 
 1Password
+
 BitWarden
 
 **Best Free Options**
