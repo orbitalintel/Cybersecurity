@@ -14,7 +14,7 @@ Google Password Manager
 
 Microsoft Authenticator
 
-KeePassXC
+[KeePassXC](https://keepassxc.org/) - open-source, cloud-free
 
 **Other Great Options**
 
