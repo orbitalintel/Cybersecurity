@@ -14,7 +14,7 @@ Google Password Manager
 
 Microsoft Authenticator
 
-KeyPass
+KeePassXC
 
 **Other Great Options**
 
