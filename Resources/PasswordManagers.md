@@ -8,7 +8,7 @@ Bitwarden
 
 **Best Free Options**
 
-Apple Passwords
+[Apple Passwords](https://apps.apple.com/us/app/passwords/id6473799789)
 
 Google Password Manager
 
