@@ -24,6 +24,6 @@ Keeper
 
 Dashlane
 
-ProtonXXXX
+[ProtonPass](https://proton.me/pass)
 
 NordPass
