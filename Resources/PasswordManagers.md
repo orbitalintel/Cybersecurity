@@ -2,9 +2,7 @@
 
 **Recommended**
 
-1Password
-
-Bitwarden
+[1Password](https://1password.com/)
 
 **Best Free Options**
 
@@ -16,14 +14,17 @@ Bitwarden
 
 [KeePassXC](https://keepassxc.org/) - open-source, cloud-free
 
+[Bitwarden](https://bitwarden.com/)
+
 **Other Great Options**
 
-LastPass
+[Dashlane](https://www.dashlane.com/personal-password-manager)
 
-Keeper
+[Keeper](https://www.keepersecurity.com/)
 
-Dashlane
+[LastPass](https://www.lastpass.com/)
+
+[NordPass](https://nordpass.com/password-manager/)
 
 [ProtonPass](https://proton.me/pass)
 
-NordPass
