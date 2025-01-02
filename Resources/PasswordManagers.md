@@ -21,7 +21,7 @@ A password manager is a software application designed to store and manage your c
 - Saves Time: Auto-fill features streamline the login process without sacrificing security.
 - Cross-Platform Accessibility: With cloud-based options, you can access your passwords on all of your devices securely.
 
-<span class="material-icons">check_circle</span>**Choosing the Right Password Manager**
+<i class="material-icons">check_circle</i>**Choosing the Right Password Manager**
 
 When selecting a password manager, look for these key features:
 
