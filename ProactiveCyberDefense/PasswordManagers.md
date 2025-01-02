@@ -56,7 +56,7 @@ Here are some trusted password managers to consider. Click on the links to explo
     <td><a href="https://www.dashlane.com/personal-password-manager" target="_dl">Dashlane</a></td>
     <td><a href="https://www.keepersecurity.com/" target="_k">Keeper</a></td>
     <td><a href="https://www.lastpass.com/" target="_lp">LastPass</a></td>
-    <td><a href="https://nordpass.com/password-manager/" target="_nord">NordPass</a></td>
+    <td><a href="https://www.kqzyfj.com/click-101328539-15111884" target="_nord">NordPass</a></td>
     <td><a href="https://proton.me/pass" target="_proton">ProtonPass</a></td>
   </tr>
 </table>
