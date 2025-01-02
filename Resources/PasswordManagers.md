@@ -55,20 +55,22 @@ Here are some trusted password managers to consider. Click on the links to explo
 *Best Free Options*
 <table width="100%">
   <tr>
-    <td><a href="https://apps.apple.com/us/app/passwords/id6473799789" target="_appl">Apple Passwords</a></td><td><a href="https://support.google.com/accounts/answer/6208650?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cget-started" target="_goog">Google Password Manager</a></td><td><a href="https://support.microsoft.com/en-us/account-billing/about-microsoft-authenticator-9783c865-0308-42fb-a519-8cf666fe0acc" target="_msft">Microsoft Authenticator</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://keepassxc.org/" target="_kpxc">KeePassXC</a></td><td><a href="https://bitwarden.com/" target="_bw">Bitwarden</a></td>
+    <td><a href="https://apps.apple.com/us/app/passwords/id6473799789" target="_appl">Apple Passwords</a></td>
+    <td><a href="https://support.google.com/accounts/answer/6208650?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cget-started" target="_goog">Google Password Manager</a></td>
+    <td><a href="https://support.microsoft.com/en-us/account-billing/about-microsoft-authenticator-9783c865-0308-42fb-a519-8cf666fe0acc" target="_msft">Microsoft Authenticator</a></td>
+    <td><a href="https://keepassxc.org/" target="_kpxc">KeePassXC</a></td>
+    <td><a href="https://bitwarden.com/" target="_bw">Bitwarden</a></td>
   </tr>
 </table>
 
 *Other Great Options*
 <table width="100%">
   <tr>
-    <td><a href="https://www.dashlane.com/personal-password-manager" target="_dl">Dashlane</a></td><td><a href="https://www.keepersecurity.com/" target="_k">Keeper</a></td><td><a href="https://www.lastpass.com/" target="_lp">LastPass</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://nordpass.com/password-manager/" target="_nord">NordPass</a></td><td><a href="https://proton.me/pass" target="_proton">ProtonPass</a></td>
+    <td><a href="https://www.dashlane.com/personal-password-manager" target="_dl">Dashlane</a></td>
+    <td><a href="https://www.keepersecurity.com/" target="_k">Keeper</a></td>
+    <td><a href="https://www.lastpass.com/" target="_lp">LastPass</a></td>
+    <td><a href="https://nordpass.com/password-manager/" target="_nord">NordPass</a></td>
+    <td><a href="https://proton.me/pass" target="_proton">ProtonPass</a></td>
   </tr>
 </table>
 
