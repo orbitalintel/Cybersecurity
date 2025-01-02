@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 # Password Managers
 
 In today’s digital landscape, passwords are the keys to our online lives. They guard our personal emails, bank accounts, social media profiles, and work-related systems. However, as we accumulate dozens or even hundreds of accounts, it’s easy to fall into bad habits - like reusing passwords or creating ones that are easy to remember but also easy to guess. To truly secure your online presence, *every single account and login must have a unique password*, and a password manager simplifies achieving this essential cybersecurity requirement.
