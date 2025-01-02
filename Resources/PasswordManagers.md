@@ -2,7 +2,7 @@
 
 In today’s digital landscape, passwords are the keys to our online lives. They guard our personal emails, bank accounts, social media profiles, and work-related systems. However, as we accumulate dozens or even hundreds of accounts, it’s easy to fall into bad habits - like reusing passwords or creating ones that are easy to remember but also easy to guess. To truly secure your online presence, *every single account and login must have a unique password*, and a password manager simplifies achieving this essential cybersecurity requirement.
 
-**Password Security Challenges**
+### Password Security Challenges
 
 - Password Reuse: A single compromised account can lead to a domino effect if the same password is used across multiple platforms.
 - Weak Passwords: Simple passwords, like “123456” or “password,” are astonishingly common and are trivial for cyber criminals to bypass. Humans are also notoriously predictable when creating their own passwords.
