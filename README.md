@@ -21,7 +21,7 @@ This repo is an evolving collection of cybersecurity resources for conducting cy
 ### Proactive Cyber Defense
 ---
 
-[**Password Managers**](./Resources/PasswordManagers.md)
+[**Password Managers**](./ProactiveCyberDefense/PasswordManagers.md)
 
 **Virtual Private Networks (VPN)**
 
