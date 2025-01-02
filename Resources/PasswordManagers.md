@@ -46,14 +46,14 @@ Here are some trusted password managers to consider. Click on the links to explo
 
 
 *Top Pick*
-<table width="100%">
+<table width="100%" border=0>
   <tr>
     <td><a href="https://1password.com/" target="_1pwd">1Password</a></td>
   </tr>
 </table>
 
 *Best Free Options*
-<table width="100%">
+<table width="100%" border=0>
   <tr>
     <td><a href="https://apps.apple.com/us/app/passwords/id6473799789" target="_appl">Apple Passwords</a></td>
     <td><a href="https://support.google.com/accounts/answer/6208650?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cget-started" target="_goog">Google Password Manager</a></td>
@@ -64,7 +64,7 @@ Here are some trusted password managers to consider. Click on the links to explo
 </table>
 
 *Other Great Options*
-<table width="100%">
+<table width="100%" border=0>
   <tr>
     <td><a href="https://www.dashlane.com/personal-password-manager" target="_dl">Dashlane</a></td>
     <td><a href="https://www.keepersecurity.com/" target="_k">Keeper</a></td>
