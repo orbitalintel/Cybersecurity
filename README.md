@@ -1,6 +1,8 @@
 # Cybersecurity
 
-This repo is an evolving collection of cybersecurity resources for conducting cyber research, analysis, forensics, and proactive cyber defense.  Check back often for new and updated content.
+This repo is an evolving collection of cybersecurity resources for conducting cyber research, analysis, forensics, and proactive cyber defense.  
+
+Check back often for new and updated content.
 
 ---
 ### Cyber Research, Analysis, Forensics
