@@ -1,5 +1,3 @@
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
 # Password Managers
 
 In today’s digital landscape, passwords are the keys to our online lives. They guard our personal emails, bank accounts, social media profiles, and work-related systems. However, as we accumulate dozens or even hundreds of accounts, it’s easy to fall into bad habits - like reusing passwords or creating ones that are easy to remember but also easy to guess. To truly secure your online presence, *every single account and login must have a unique password*, and a password manager simplifies achieving this essential cybersecurity requirement.
@@ -21,7 +19,7 @@ A password manager is a software application designed to store and manage your c
 - Saves Time: Auto-fill features streamline the login process without sacrificing security.
 - Cross-Platform Accessibility: With cloud-based options, you can access your passwords on all of your devices securely.
 
-<i class="material-icons">check_circle</i>**Choosing the Right Password Manager**
+**Choosing the Right Password Manager**
 
 When selecting a password manager, look for these key features:
 
