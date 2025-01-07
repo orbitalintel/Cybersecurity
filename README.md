@@ -25,5 +25,9 @@ Check back often for new and updated content.
 
 [**Password Managers**](./ProactiveCyberDefense/PasswordManagers.md)
 
+**Secure Your Digital Legacy**
+
 **Virtual Private Networks (VPN)**
+
+**Virtual Machines**
 
