@@ -27,6 +27,8 @@ Check back often for new and updated content.
 
 **Secure Your Digital Legacy**
 
+**Simplify Windows App Updates**
+
 **Virtual Private Networks (VPN)**
 
 **Virtual Machines**
