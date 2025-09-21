@@ -44,7 +44,6 @@ Explore our curated list of the most trusted password managers available. Click 
   <tr>
     <td><a href="https://apps.apple.com/us/app/passwords/id6473799789" target="_appl">Apple Passwords</a></td>
     <td><a href="https://support.google.com/accounts/answer/6208650?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cget-started" target="_goog">Google Password Manager</a></td>
-    <td><a href="https://support.microsoft.com/en-us/account-billing/about-microsoft-authenticator-9783c865-0308-42fb-a519-8cf666fe0acc" target="_msft">Microsoft Authenticator</a></td>
     <td><a href="https://keepassxc.org/" target="_kpxc">KeePassXC</a></td>
     <td><a href="https://bitwarden.com/" target="_bw">Bitwarden</a></td>
   </tr>
