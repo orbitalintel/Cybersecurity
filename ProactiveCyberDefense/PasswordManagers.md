@@ -10,7 +10,7 @@ Passwords are the keys to our online lives. They guard our personal emails, bank
 
 ### How a Password Manager Improves Security
 
-A password manager is a software application designed to store and manage your credentials securely. Here’s why utilizing a password managemer is essential to your digital safety:
+A password manager is a software application designed to store and manage your credentials securely. Here’s why utilizing a password manager is essential to your digital safety:
 
 - **Creates Strong, Unique Passwords**: A password manager can generate long, complex passwords that are virtually impossible to guess, ensuring that every account has its own unique key.
 - **Simplifies Management**: Instead of remembering dozens of passwords, you only need to remember one master password to access your password manager vault.
@@ -43,7 +43,6 @@ Explore our curated list of the most trusted password managers available. Click 
 <table>
   <tr>
     <td><a href="https://apps.apple.com/us/app/passwords/id6473799789" target="_appl">Apple Passwords</a></td>
-    <td><a href="https://support.google.com/accounts/answer/6208650?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cget-started" target="_goog">Google Password Manager</a></td>
     <td><a href="https://keepassxc.org/" target="_kpxc">KeePassXC</a></td>
     <td><a href="https://bitwarden.com/" target="_bw">Bitwarden</a></td>
   </tr>
@@ -54,6 +53,7 @@ Explore our curated list of the most trusted password managers available. Click 
   <tr>
     <td><a href="https://www.dashlane.com/personal-password-manager" target="_dl">Dashlane</a></td>
     <td><a href="https://www.keepersecurity.com/" target="_k">Keeper</a></td>
+    <td><a href="https://support.google.com/accounts/answer/6208650?hl=en&co=GENIE.Platform%3DAndroid#zippy=%2Cget-started" target="_goog">Google Password Manager</a></td>
     <td><a href="https://www.lastpass.com/" target="_lp">LastPass</a></td>
     <td><a href="https://go.nordpass.io/aff_c?offer_id=488&aff_id=34741&url_id=9356" target="_nord">NordPass</a></td>
     <td><a href="https://proton.me/pass" target="_proton">ProtonPass</a></td>
