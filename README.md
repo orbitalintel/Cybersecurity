@@ -27,7 +27,7 @@ Check back often for new and updated content.
 
 **Secure Your Digital Legacy**
 
-**Simplify Windows App Updates**
+[**Simplify Windows App Updates**](./ProactiveCyberDefense/SimplifyWindowsAppUpdates.md)
 
 **Virtual Private Networks (VPN)**
 
