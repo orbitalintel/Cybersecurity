@@ -26,12 +26,12 @@ To get started with WinGet, we need to open the Windows Terminal or the Command 
 
 When you have your terminal of choice opened, just type <kbd>winget upgrade</kbd> at the command prompt and then press the <kbd>Enter</kbd> key to instantly see which apps on your system are crying out for updates.
 
-> :memo: **Note:** If this is your first time running WinGet, you will be prompted to accept the Microsoft Store terms to continue.
+> **Note:** If this is your first time running WinGet, you will be prompted to accept the Microsoft Store terms to continue.
 Type <kbd>Y</kbd> then press the <kbd>Enter</kbd> key to proceed.
 
 You will get a clean table revealing every upgradable application, complete with current version, available version, and source. It's like having X-ray vision into your software's security and performance health.
 
-> :memo: **Note:** The <kbd>winget list --upgrade-available</kbd> command performs the same actions as <kbd>winget upgrade</kbd> if you prefer to practice
+> **Note:** The <kbd>winget list --upgrade-available</kbd> command performs the same actions as <kbd>winget upgrade</kbd> if you prefer to practice
 your typing skills.
 
 ![Image 1](https://orbitalintel.com/blog/winget101.png)
@@ -46,14 +46,14 @@ The true power of WinGet is its ability to update all apps with a single command
 
 When you press the <kbd>Enter</kbd> key, WinGet will download each app update and automatically begin the upgrade process.
 
-> :memo: **Note:** WinGet may notify you to "**Expect a prompt**" to run the installer with Windows administrator privileges. This prompt will 
+> **Note:** WinGet may notify you to "**Expect a prompt**" to run the installer with Windows administrator privileges. This prompt will 
 appear as a separate window with the title "User Account Control", click <kbd>Yes</kbd> to continue.
 
 When the upgrade finishes successfully, WinGet displays a clear "**Successfully installed**" message in the terminal — your signal that each app is now running the latest version, patched, and more secure.
 
 No guesswork, no digging through logs — just straightforward confirmation that your one-command update worked.
 
-> :memo: **Note:** You might also see a note like "**Restart the application to complete the upgrade**" for apps that need a relaunch to apply 
+> **Note:** You might also see a note like "**Restart the application to complete the upgrade**" for apps that need a relaunch to apply 
 changes fully — this typically happens when the app is running during the upgrade process. For example, the Windows Terminal 
 and 1Password apps needed a restart to finish the update.
 
@@ -77,7 +77,7 @@ When you press the <kbd>Enter</kbd> key, WinGet will download the app update.
 
 WinGet will automatically begin the upgrade process when the download completes.
 
-> :memo: **Note:** WinGet may notify you to "**Expect a prompt**" to run the installer with Windows administrator privileges. This prompt will 
+> **Note:** WinGet may notify you to "**Expect a prompt**" to run the installer with Windows administrator privileges. This prompt will 
 appear as a separate window with the title "User Account Control", click <kbd>Yes</kbd> to continue.
 
 ![Image 7](https://orbitalintel.com/blog/winget104.png)
