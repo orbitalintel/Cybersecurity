@@ -65,16 +65,20 @@ Explore our curated list of the most trusted VPNs available. Click the links to 
     <td colspan=3><i>Trusted VPN Options</i></td>
   </tr>
   <tr>
-    <td><a href="https://nordvpn.com/" target="_nord">NordVPN</a></td><td><a href="https://protonvpn.com" target="_proton">ProtonVPN</a></td><td><a href="https://expressvpn.com" target="_goog">ExpressVPN</a></td>
+    <td><a href="https://nordvpn.com/" target="_nord">NordVPN</a></td>
+    <td><a href="https://protonvpn.com" target="_proton">ProtonVPN</a></td>
+    <td><a href="https://expressvpn.com" target="_goog">ExpressVPN</a></td>
   </tr>
-  <tr colspan=3>
-    <td>&nbsp;</td>
-  </tr>
+</table>
+
+<table width="100%">
   <tr>
     <td colspan=3><i>Other Great Options</i></td>
   </tr>
   <tr>
-    <td><a href="https://surfshark.com" target="_ss">Surfshark</a></td><td><a href="https://mullvad.net/en" target="_mvpn">Mullvad VPN</a></td><td><a href="https://www.ivpn.net/en/" target="_ivpn">IVPN</a></td>
+    <td><a href="https://surfshark.com" target="_ss">Surfshark</a></td>
+    <td><a href="https://mullvad.net/en" target="_mvpn">Mullvad VPN</a></td>
+    <td><a href="https://www.ivpn.net/en/" target="_ivpn">IVPN</a></td>
   </tr>
 </table>
 
